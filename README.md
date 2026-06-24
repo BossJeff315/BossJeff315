@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 **BossJeff315/BossJeff315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,5 +27,3 @@ Key areas of interest:
 * Open Source Development
 
 I believe in writing clean code, building practical solutions, and developing software that delivers measurable value to users and organizations.
-
--->
